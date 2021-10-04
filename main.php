@@ -16,14 +16,6 @@ Password <input type="password" name="password" value=""> <br> <br>
 <a href="forget.php">  Forget Password </a> <br> <br>   
 
 
-
-
-
-
-
-
-
-
 </form>
 
 
